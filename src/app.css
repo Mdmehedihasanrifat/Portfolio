@@ -1,0 +1,25 @@
+.App{
+
+    height: 100vh;
+}
+.App >.section{
+
+    width:100% ;
+    height: calc(100vh - 80px);
+    background: lightcoral;
+    scroll-behavior: smooth;
+    position: relative;
+    top:70px;
+    scroll-snap-type: y mandatory;
+    scrollbar-width:none;
+
+}
+
+.section::-webkit-scrollbar {display: none;}
+.section>*{
+    width:100% ;
+    height: calc(100vh - 80px);
+    scroll-snap-align: start;
+
+}
+
