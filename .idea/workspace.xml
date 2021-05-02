@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b0f8cf3-27e8-4c56-a576-ba083f3e4d4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/topbar/Topbar.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/topbar/topbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/topbar/topbar.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/topbar/topbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/topbar/topbar.js" afterDir="false" />
@@ -16,6 +17,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -34,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -65,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619948382288</updated>
-      <workItem from="1619948386272" duration="21930000" />
+      <workItem from="1619948386272" duration="22578000" />
     </task>
     <servers />
   </component>
