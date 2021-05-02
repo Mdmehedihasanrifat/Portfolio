@@ -14,7 +14,11 @@
     align-items: center;
     justify-content: space-between;
 }
+.left{
 
+    display: flex;
+    align-items: center;
+}
 .wrapper >.left>.logo{
 
     font-size: 20px;
