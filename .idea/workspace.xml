@@ -2,29 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b0f8cf3-27e8-4c56-a576-ba083f3e4d4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/globe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/mobile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/right-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/shake.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/writing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/youtube.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Menu/Menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Menu/Menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PortfolioList/Portfoliolist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PortfolioList/portfoliolist.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/intro/intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/intro/intro.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/intro/intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/intro/intro.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/portfolio/potfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/portfolio/potfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/topbar/topbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/topbar/topbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contact/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact/contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contact/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/testomnial/tesmonial.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/testomnial/tesmonial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/testomnial/testmonial.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/testomnial/testmonial.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/works/works.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/works/works.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619948382288</updated>
-      <workItem from="1619948386272" duration="27154000" />
+      <workItem from="1619948386272" duration="28784000" />
     </task>
     <servers />
   </component>
