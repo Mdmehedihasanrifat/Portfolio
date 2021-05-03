@@ -16,21 +16,15 @@ const Potfolio = () => {
             title: "Featured",
         },
         {
-            id: "web",
+            id: "web development",
             title: "Web App",
         },
+
         {
-            id: "mobile",
-            title: "Mobile App",
-        },
-        {
-            id: "design",
+            id: "web design",
             title: "Design",
         },
-        {
-            id: "content",
-            title: "Content",
-        },
+
     ];
 
     useEffect(() => {
