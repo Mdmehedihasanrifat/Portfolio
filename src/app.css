@@ -1,25 +1,13 @@
-.App{
+/*
+  --bg: #10121B;
+  --sidebar: #191D2B;
+  --main-blue-color: #037FFF;
+  --main-border-color: #2e344e;
+  --font-color: #a4acc4;
 
-    height: 100vh;
-}
-.App >.section{
+    "@fortawesome/fontawesome-svg-core"
+    "@fortawesome/free-brands-svg-icons"
+    "@fortawesome/free-solid-svg-icons"
+    "@fortawesome/react-fontawesome"
 
-    width:100% ;
-    height: calc(100vh - 80px);
-    background: lightcoral;
-    scroll-behavior: smooth;
-    position: relative;
-    top:70px;
-    scroll-snap-type: y mandatory;
-    scrollbar-width:none;
-
-}
-
-.section::-webkit-scrollbar {display: none;}
-.section>*{
-    width:100% ;
-    height: calc(100vh - 80px);
-    scroll-snap-align: start;
-
-}
-
+*/

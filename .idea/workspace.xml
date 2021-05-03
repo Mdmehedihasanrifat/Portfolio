@@ -1,33 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b0f8cf3-27e8-4c56-a576-ba083f3e4d4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PortfolioList/Portfoliolist.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PortfolioList/Portfoliolist.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/portfolio/potfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/portfolio/potfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/topbar/topbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/topbar/topbar.js" afterDir="false" />
+    <list default="true" id="df6f2577-f0b3-4c40-9cb3-bff11527c736" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ImageSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ImageSection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/MenuItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MenuItems.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/allportfolios.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/allportfolios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/AboutPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/AboutPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/ContactPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/ContactPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/_portfolios.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_portfolios.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="SCSS File" />
-        <option value="JavaScript File" />
-        <option value="CSS File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1ryVXuySaskiggtwg0BhrnFS3Fd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="anonymousApexSettings">
+          <AnonymousApexSettings>
+            <option name="savedDocuments">
+              <list>
+                <AnonymousApexSavedDocument>
+                  <option name="name" value="Anonymous Apex 1" />
+                </AnonymousApexSavedDocument>
+              </list>
+            </option>
+          </AnonymousApexSettings>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
   </component>
+  <component name="ProjectId" id="1s2RATfQB6MfeP931mt6Gskz6Iz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,72 +48,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\webstrom\portfolio\public\assets" />
-    </key>
-  </component>
-  <component name="RunManager" selected="npm.npm start">
-    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
-      <method v="2" />
-    </configuration>
-    <configuration name="npm start" type="js.build_tools.npm">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="start" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1b0f8cf3-27e8-4c56-a576-ba083f3e4d4a" name="Default Changelist" comment="" />
-      <created>1619948382288</created>
+      <changelist id="df6f2577-f0b3-4c40-9cb3-bff11527c736" name="Default Changelist" comment="" />
+      <created>1620068555101</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1619948382288</updated>
-      <workItem from="1619948386272" duration="32402000" />
-      <workItem from="1620042692834" duration="2188000" />
+      <updated>1620068555101</updated>
+      <workItem from="1620068556595" duration="9697000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/index.js</url>
-          <line>4</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
