@@ -1,4 +1,5 @@
 import React from 'react';
+import './Menu.css';
 
 const Menu = ({ menuOpen, setMenuOpen }) => {
     return (
@@ -17,7 +18,7 @@ const Menu = ({ menuOpen, setMenuOpen }) => {
                     <li onClick={()=>setMenuOpen(false)}>
                         <a href="#testimonial">Testimonials</a>
                     </li>
-                    <li onClick={()=>setMenuOpen(false)}>
+                    <li onClick={()=>setMenuOpen(!menuOpen)}>
                         <a href="#contact">Contact</a>
                     </li>
                 </ul>
