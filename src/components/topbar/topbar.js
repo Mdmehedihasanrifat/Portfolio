@@ -2,9 +2,9 @@ import React from 'react';
 import './topbar.css'
 import PersonIcon from '@material-ui/icons/Person';
 import Mail from '@material-ui/icons/Mail';
-const Topbar = () => {
+const Topbar = ({ menuOpen, setMenuOpen }) => {
     return (
-        <div className="topbar active ">
+        <div className={"topbar " + (menuOpen && "active")}>
          <div className="wrapper">
                 <div className="left ">
                     <a href="#intro" className="logo">Md Mehedi Hasan.</a>
