@@ -17,7 +17,7 @@ const Potfolio = () => {
         },
         {
             id: "web development",
-            title: " Web App ",
+            title: "Web App ",
         },
 
         {
