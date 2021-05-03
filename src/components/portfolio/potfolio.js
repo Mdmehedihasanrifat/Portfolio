@@ -13,16 +13,16 @@ const Potfolio = () => {
     const list = [
         {
             id: "featured",
-            title: "Featured",
+            title: " Featured ",
         },
         {
             id: "web development",
-            title: "Web App",
+            title: " Web App ",
         },
 
         {
             id: "web design",
-            title: "Design",
+            title: " Design ",
         },
 
     ];
