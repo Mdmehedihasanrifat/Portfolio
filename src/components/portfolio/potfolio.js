@@ -16,12 +16,12 @@ const Potfolio = () => {
             title: " Featured ",
         },
         {
-            id: "web development",
+            id: "web",
             title: "Web App ",
         },
 
         {
-            id: "web design",
+            id: "design",
             title: " Design ",
         },
 
@@ -47,7 +47,6 @@ const Potfolio = () => {
     return (
         <div className="portfolio" id="portfolio">
 
-            <div className="portfolio" id="portfolio">
                 <h1>Portfolio</h1>
                 <ul>
                     {list.map((item) => (
@@ -71,7 +70,7 @@ const Potfolio = () => {
                     ))}
                 </div>
             </div>
-        </div>
+
     );
 };
 
